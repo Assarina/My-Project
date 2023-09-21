@@ -1,0 +1,44 @@
+{
+  "scoreBoard": [
+    {
+      "name": "IMTOP",
+      "win": 10,
+      "id": 1
+    },
+    {
+      "name": "Nearda",
+      "win": 7,
+      "id": 2
+    },
+    {
+      "name": "Mimi",
+      "win": 7,
+      "id": 3
+    },
+    {
+      "name": "Ferny",
+      "win": 5,
+      "id": 4
+    },
+    {
+      "name": "WeBeerBear",
+      "win": 4,
+      "id": 5
+    },
+    {
+      "name": "NotBad",
+      "win": 3,
+      "id": 6
+    },
+    {
+      "name": "JiJi",
+      "win": 1,
+      "id": 7
+    },
+    {
+      "name": "Chris Simburg",
+      "win": 1,
+      "id": 8
+    }
+  ]
+}
