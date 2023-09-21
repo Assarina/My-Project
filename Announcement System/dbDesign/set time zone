@@ -1,0 +1,5 @@
+SET GLOBAL time_zone = '+00:00';
+
+SET time_zone = '+00:00';
+
+show variables like '%time_zone';
